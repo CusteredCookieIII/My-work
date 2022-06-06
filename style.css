@@ -26,3 +26,7 @@ img{
     height: 400px;
     margin: 10px;
 }
+
+ #mycarousel{
+    background-color: aqua;
+ }
